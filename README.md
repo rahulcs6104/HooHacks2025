@@ -11,6 +11,7 @@ uvicorn main:app --host 127.0.0.1 --port 8000 --reload
 # make sure the port of the backend is alwasy 8000 and no other port
 
 #FOR FRONTEND##########################:
+unzip the cream-website-final.zip file
 #run these in the front-end directory in the console/terminal (instruction for mac) ( cd cream-website-final ) :
 python3 -m venv venv
 source venv/bin/activate
